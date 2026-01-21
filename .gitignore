@@ -1,2 +1,11 @@
 .idea
-.venv
+.venv.DS_Store
+__pycache__/
+*.pyc
+.idea/
+*.iml
+.env
+*.db
+.vscode/
+*.log
+.DS_Store

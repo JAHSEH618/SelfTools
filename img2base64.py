@@ -93,7 +93,7 @@ def base64_to_image(base64_string, output_path):
 # 使用示例
 if __name__ == "__main__":
     # 示例1: 基本转换
-    image_path = "/Users/okonma/Downloads/skirt.png"  # 替换为你的图片路径
+    image_path = "./your_image.png"  # 替换为你的图片路径
     base64_str = image_to_base64(image_path)
     if base64_str:
         print("Base64字符串(前100字符):")
